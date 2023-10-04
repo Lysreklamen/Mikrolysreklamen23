@@ -1,0 +1,14 @@
+/__Previews
+/History
+/Project Logs for *
+~$*
+*.htm
+debug.log
+Status Report.txt
+Project Outputs/Gerber
+Project Outputs/NC Drill
+Project Outputs/ODB
+Project Outputs/Pick Place
+Project Outputs/Stencil
+Project Outputs/Test Points
+Debug/
